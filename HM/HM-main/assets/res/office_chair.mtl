@@ -1,0 +1,60 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl Matteplastic
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 0.12127887078051297
+Pr 0.7466456575213738
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0 0 0
+Ke 0 0 0
+
+newmtl BlackMetal
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.28480088335912934
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0 0 0
+Ke 0 0 0
+
+newmtl Lether
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 0.05838578901950668
+Pr 0.3602725814723369
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.01101123050028984 0.01101123050028984 0.01101123050028984
+Ke 0 0 0
+
+newmtl Chairback
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.6
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Chairback.png
+
+newmtl Chrome
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.02064993996290291
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.6831716576944958 0.6831716576944958 0.6831716576944958
+Ke 0 0 0

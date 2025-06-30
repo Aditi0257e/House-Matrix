@@ -1,0 +1,13 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.4.0)
+
+newmtl phong1
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd textures/phong1_baseColor.png
+bump textures/phong1_normal.png
+map_bump textures/phong1_normal.png
+
